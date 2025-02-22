@@ -1,0 +1,4 @@
+﻿  Bank System [1].cpp
+E:\Projects\Bank System [1]\Bank System [1]\Bank System [1].cpp(139,47): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+E:\Projects\Bank System [1]\Bank System [1]\Bank System [1].cpp(152,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Bank System [1].vcxproj -> E:\Projects\Bank System [1]\x64\Debug\Bank System [1].exe
