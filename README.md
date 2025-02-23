@@ -17,7 +17,8 @@ C++ BANKING MANAGEMENT SYSTEM - README
 1. Compile with a C++ compiler (e.g., `g++ main.cpp -o bank`)  
 2. Run executable (`./bank` on Linux/Mac, `bank.exe` on Windows)  
 3. Default admin credentials (add via Users.txt):  
-   Username: Admin / Password: 1234  
+   Username: Admin / Password: 1234
+3. Developed using Visual Studio Communinty Edition 2022  
 
 ⚠️ NOTES:  
 - No classes used—built with structs and modular functions  
