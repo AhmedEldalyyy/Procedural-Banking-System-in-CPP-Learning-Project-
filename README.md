@@ -3,7 +3,8 @@ C++ BANKING MANAGEMENT SYSTEM - README
 ───────────────────────────────────────────────────  
 
 📌 DESCRIPTION:  
-My very first project knowing that i haven't learned OOP yet, A procedural console application for managing bank clients, users, and transactions. Uses structs and file I/O for data storage.  
+- Early-stage project focused on learning file handling and modular design in C++ . A procedural console application for managing bank clients, users, and transactions. Uses structs and file I/O for data storage.
+- Not OOP-based—built to practice structs and procedural logic.
 
 🔑 KEY FEATURES:  
 - Login system with role-based permissions  
