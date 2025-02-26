@@ -35,3 +35,8 @@ C++ BANKING MANAGEMENT SYSTEM - README
 📜 LICENSE:  
 Open-source - Modify and use freely.  
 
+📌 SCREENSHOTS:  
+
+[![1.png](https://i.postimg.cc/sXd4wQvW/1.png)](https://postimg.cc/ns2mLLKV)
+
+
